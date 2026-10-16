@@ -1,4 +1,4 @@
-# Chompoonuch Tubtimsri — Portfolio (v2, futuristic)
+# Chompoonuch Tubtimsri — Portfolio
 
 Next.js (App Router) + React + TypeScript + Tailwind CSS + Lucide. Fonts are self-hosted (Bricolage Grotesque, Instrument Sans).
 
